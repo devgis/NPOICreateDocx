@@ -1,0 +1,16 @@
+E:\Work\NPOICreateDocx\NPOICreateDocx\bin\Release\NPOICreateDocx.exe
+E:\Work\NPOICreateDocx\NPOICreateDocx\bin\Release\NPOICreateDocx.pdb
+E:\Work\NPOICreateDocx\NPOICreateDocx\bin\Release\NPOI.dll
+E:\Work\NPOICreateDocx\NPOICreateDocx\bin\Release\NPOI.OOXML.dll
+E:\Work\NPOICreateDocx\NPOICreateDocx\bin\Release\NPOI.OpenXml4Net.dll
+E:\Work\NPOICreateDocx\NPOICreateDocx\bin\Release\NPOI.OpenXmlFormats.dll
+E:\Work\NPOICreateDocx\NPOICreateDocx\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\Work\NPOICreateDocx\NPOICreateDocx\bin\Release\NPOI.xml
+E:\Work\NPOICreateDocx\NPOICreateDocx\bin\Release\NPOI.OOXML.xml
+E:\Work\NPOICreateDocx\NPOICreateDocx\bin\Release\NPOI.OpenXml4Net.xml
+E:\Work\NPOICreateDocx\NPOICreateDocx\obj\x86\Release\NPOICreateDocx.csprojResolveAssemblyReference.cache
+E:\Work\NPOICreateDocx\NPOICreateDocx\obj\x86\Release\NPOICreateDocx.Form1.resources
+E:\Work\NPOICreateDocx\NPOICreateDocx\obj\x86\Release\NPOICreateDocx.Properties.Resources.resources
+E:\Work\NPOICreateDocx\NPOICreateDocx\obj\x86\Release\NPOICreateDocx.csproj.GenerateResource.Cache
+E:\Work\NPOICreateDocx\NPOICreateDocx\obj\x86\Release\NPOICreateDocx.exe
+E:\Work\NPOICreateDocx\NPOICreateDocx\obj\x86\Release\NPOICreateDocx.pdb
